@@ -1,0 +1,9 @@
+INSERT INTO `emergency` VALUES ('匪警', '110');
+INSERT INTO `emergency` VALUES ('火警', '119');
+INSERT INTO `emergency` VALUES ('急救中心', '120');
+INSERT INTO `emergency` VALUES ('天气预报', '121');
+INSERT INTO `emergency` VALUES ('报时服务', '117');
+INSERT INTO `emergency` VALUES ('国际人工长途电话', '103');
+INSERT INTO `emergency` VALUES ('国际直拨受话人付费电话', '108');
+INSERT INTO `emergency` VALUES ('国内邮政编码查询', '184');
+INSERT INTO `emergency` VALUES ('红十字会急救台', '999');

@@ -1,0 +1,12 @@
+INSERT INTO `three` VALUES ('北京市 ', 10);
+INSERT INTO `three` VALUES ('上海市', 21);
+INSERT INTO `three` VALUES ('天津市', 22);
+INSERT INTO `three` VALUES ('重庆市', 23);
+INSERT INTO `three` VALUES ('香港 ', 852);
+INSERT INTO `three` VALUES ('澳门 ', 853);
+INSERT INTO `three` VALUES ('广东省广州市 ', 20);
+INSERT INTO `three` VALUES ('辽宁省沈阳市', 24);
+INSERT INTO `three` VALUES ('湖北省武汉市', 27);
+INSERT INTO `three` VALUES ('陕西省西安市', 29);
+INSERT INTO `three` VALUES ('四川省成都市', 28);
+INSERT INTO `three` VALUES ('江苏省南京市', 25);
